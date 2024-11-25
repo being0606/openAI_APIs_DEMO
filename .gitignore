@@ -1,1 +1,3 @@
 .env
+data/sentencePair_세종실록_filtered.csv
+data/ch03_batchinput_sentencePair_세종실록_filtered_sampled_10.jsonl
