@@ -1,2 +1,7 @@
+pandas
+numpy
 openai
 loguru
+nltk
+sacrebleu
+rouge-score
